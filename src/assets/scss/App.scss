@@ -1,3 +1,15 @@
 @import "abstract/variables";
 @import 'bootstrap/scss/bootstrap.scss';
 @import "abstract/base";
+
+.buttonA{
+    color: #46139f;
+}
+.buttonB{
+    color: #ff7f50;
+}
+.buttonC{
+    border-color: #46139f;
+    background: white;
+    color: black;
+}
